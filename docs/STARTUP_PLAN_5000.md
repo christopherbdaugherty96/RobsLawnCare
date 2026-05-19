@@ -503,7 +503,41 @@ Collect:
 
 ---
 
-# 16. Customer Communication Standard
+# 16. Revenue Structure
+
+## Goal
+
+Build recurring predictable revenue.
+
+The strongest local lawn care businesses survive because they have recurring customers instead of only one-time jobs.
+
+## Example recurring structure
+
+20 recurring mowing customers at:
+
+- $45-$65 average cuts
+
+can create:
+
+- meaningful baseline monthly cash flow during peak season.
+
+The exact numbers will vary by property size and route efficiency.
+
+## Add-on revenue strategy
+
+Add-ons increase average customer value.
+
+Examples:
+
+- mulch refresh
+- bush trimming
+- cleanup work
+- driveway washing
+- seasonal leaf cleanup
+
+---
+
+# 17. Customer Communication Standard
 
 ## Key rule
 
@@ -530,7 +564,31 @@ Keep communication:
 
 ---
 
-# 17. Google Reviews Strategy
+# 18. Customer Retention System
+
+Keeping customers is easier than constantly replacing them.
+
+## Retention drivers
+
+Customers stay when:
+
+- schedules stay consistent
+- communication stays fast
+- lawns consistently look clean
+- problems are handled quickly
+- billing stays simple
+
+## Retention habits
+
+1. Show up when expected.
+2. Send updates if weather changes schedules.
+3. Respond quickly.
+4. Keep edging and cleanup consistent.
+5. Stay professional even on small jobs.
+
+---
+
+# 19. Google Reviews Strategy
 
 Reviews are one of the biggest growth tools.
 
@@ -555,7 +613,69 @@ Simply ask consistently.
 
 ---
 
-# 18. Insurance and Legal Direction
+# 20. Equipment Maintenance Plan
+
+Equipment downtime kills schedules.
+
+## Weekly checks
+
+- blade sharpness
+- trimmer line
+- oil levels
+- air filters
+- loose bolts
+- tire condition
+- fuel supply
+
+## Monthly checks
+
+- spark plugs
+- mower belts
+- grease points if applicable
+- pressure washer hoses
+- pressure fittings
+
+## Key rule
+
+Preventive maintenance is cheaper than emergency replacement.
+
+---
+
+# 21. Weather and Seasonality Strategy
+
+Michigan seasonality matters heavily.
+
+## Peak mowing season
+
+Typically:
+
+- spring through early fall
+
+## Shoulder season opportunities
+
+Use slower periods for:
+
+- cleanups
+- mulch work
+- pressure washing
+- truck maintenance
+- equipment servicing
+- review collection
+- marketing updates
+
+## Rain strategy
+
+Rain delays are normal.
+
+The important part is:
+
+- customer communication
+- route recovery planning
+- staying organized after delays
+
+---
+
+# 22. Insurance and Legal Direction
 
 ## Early priorities
 
@@ -583,7 +703,7 @@ Insurance becomes more important as:
 
 ---
 
-# 19. First 30 Days Plan
+# 23. First 30 Days Plan
 
 ## Week 1
 
@@ -619,7 +739,7 @@ Insurance becomes more important as:
 
 ---
 
-# 20. First Season Goals
+# 24. First Season Goals
 
 ## Operational goals
 
@@ -651,7 +771,7 @@ Not just revenue.
 
 ---
 
-# 21. Biggest Startup Mistakes To Avoid
+# 25. Biggest Startup Mistakes To Avoid
 
 ## Mistake 1
 
@@ -695,7 +815,43 @@ Taking risky pressure washing jobs too early.
 
 ---
 
-# 22. Upgrade Path
+# 26. Scaling Checkpoints
+
+## First checkpoint
+
+10 recurring clients.
+
+Focus:
+
+- stabilize schedule
+- improve efficiency
+- gather reviews
+
+## Second checkpoint
+
+20-30 recurring clients.
+
+Focus:
+
+- route optimization
+- cleaner branding
+- stronger upsells
+- possible trailer upgrade
+
+## Third checkpoint
+
+40+ recurring clients.
+
+Possible next steps:
+
+- helper or employee
+- second mower
+- scheduling software
+- commercial route expansion
+
+---
+
+# 27. Upgrade Path
 
 Upgrade only after customer demand proves the need.
 
@@ -714,7 +870,7 @@ Upgrade only after customer demand proves the need.
 
 ---
 
-# 23. Long-Term Vision
+# 28. Long-Term Vision
 
 The long-term goal should be:
 
@@ -736,7 +892,7 @@ not through oversized startup spending.
 
 ---
 
-# 24. Final Launch Position
+# 29. Final Launch Position
 
 ShortCut Lawn Care should launch as:
 
